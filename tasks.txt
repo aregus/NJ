@@ -1,0 +1,2 @@
+1)DL everything needed for NJ
+2)Dev login/logout system
